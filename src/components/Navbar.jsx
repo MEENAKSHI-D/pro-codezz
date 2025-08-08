@@ -3,7 +3,8 @@ import{
     FaInfoCircle,
     FaServicestack,
     FaEnvelope
-} from "react-icons/fa"
+} from "react-icons/fa";
+
 
 export default function Navbar()
 {
